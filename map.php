@@ -1,5 +1,6 @@
 <?PHP
 
+/* Version 1.2 by yeyu */
 include_once 'inc/init.php';
 include_once 'inc/operateDB.php';
 
